@@ -1,16 +1,3 @@
-# pie_chart_flutter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Pie Chart Flutter 
+Flutter package helps you create pie charts (pie charts) quickly and easily. This package provides a PieChart widget that allows you to specify data for the chart and its custom appearance.
+<img src="https://github.com/Ngochiendev/pie_chart/blob/main/screenshots/pie_chart.png"  height = "400" alt="PieChart">
